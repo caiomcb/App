@@ -22,17 +22,34 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 # Escopos e Variáveis:
 
-Variáveis globais: O próprio console
-~~ locais : { }
-Constantes
+ [x] Variáveis globais: O próprio console
+ [x] ~~ locais : { }
+ [x] Constantes
 
 # Tipos de dados:
 
-  Strings(Textos): " ", ' ', `` 
-  Number (Números): 2(inteiros), 1.4(fracionais)
-  Function(Função):
-  Variable(Variáveis): Let(Pode ser mudada), const(Não pode ser mudada)
+   [x] Strings(Textos): " ", ' ', `` 
+   [x] Number (Números): 2(inteiros), 1.4(fracionais)
+   [x] Variable(Variáveis): Let(Pode ser mudada), const(Não pode ser mudada)
+   [x]Boolean(Booleano): true, false
 
 # Operadores:
 
-Operadores de atribuição de valor: =
+ [x] Operadores de atribuição de valor: =
+ [x] Operador de concatenação: +
+
+# Estruturas de dados:
+
+  # Arrays:
+   [x]Uma lista que contém qualquer tipo de dado
+
+  # Objeto:
+   [x] Atribuidos e métodos
+   [x] Criação e manipulação de objetos
+   [x] Acesso a prioridades de objetos
+
+# Function(Função)
+
+   [x] criar, passar argumento
+   [x] executar
+   [x]arrow function / named function  
