@@ -31,18 +31,20 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
    [x] Strings(Textos): " ", ' ', `` 
    [x] Number (Números): 2(inteiros), 1.4(fracionais)
    [x] Variable(Variáveis): Let(Pode ser mudada), const(Não pode ser mudada)
-   [x]Boolean(Booleano): true, false
+   [x] Boolean(Booleano): true, false
 
 # Operadores:
 
    [x] Operadores de atribuição de valor: =
    [x] Operador de concatenação: +
    [x] Operadores de comparação: ==, !=, < >, <= >=
+   [x] Spread operator: ... (reticências)
 
 # Estruturas de dados:
 
   # Arrays:
-   [x]Uma lista que contém qualquer tipo de dado
+   [x] Uma lista que contém qualquer tipo de dado
+   [x] Métodos de array: push, [find, forEach, filter]: HOF (Higher Order Functions)
 
   # Objeto:
    [x] Atribuidos e métodos
@@ -53,16 +55,16 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
    [x] criar, passar argumento
    [x] executar
-   [x]arrow function / named function  
+   [x] arrow function / named function  
 
 # Estrutura de repetição
 
-  [x]While
+  [x] While
 
 # Condicionais
 
-  [x]Switch
-  [x]if/else
+  [x] Switch
+  [x] if/else
 
 # Modulos em Node.js:
 
